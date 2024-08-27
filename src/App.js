@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
          Deployment is happening by GREAT INDIAN EDUCATION Student .
+         after the change.
         </p>
       
       </header>
