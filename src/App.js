@@ -13,17 +13,18 @@ function App() {
        
         <p>
          Deployment is happening by GREAT INDIAN EDUCATION Student .
-         after the change.
+         After the change.
         </p>
        
         <See/>
+      
       </header>
-     
+    
     
     </div>
   
     
   );
 }
-
 export default App;
+
