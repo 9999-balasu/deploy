@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import See from './See.js';
-//import Go from './Go.js';
+import Go from './Go.js';
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
         </p>
        
         <See/>
-      
+      <Go/>
       </header>
     
     
